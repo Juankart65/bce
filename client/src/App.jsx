@@ -6,6 +6,7 @@ function App() {
     <>
       <main>
         <Nav />
+        
       </main>
     </>
   );
