@@ -2,34 +2,35 @@ import React from "react";
 import {Card, CardBody, CardFooter, Image} from "@nextui-org/react";
 
 export default function Options() {
+const baseImagePath = "/src/assets/img";
   const list = [
     {
       title: "Filosofía",
-      img: "./src/assets/img/img1.jpg",
+      img: `${baseImagePath}/img1.jpg`,
     },
     {
       title: "Justificación de Nuestra Fundación",
-      img: "./src/assets/img/img4.jpg",
+      img: `${baseImagePath}/img4.jpg`,
     },
     {
       title: "Propósitos",
-      img: "./src/assets/img/img5.jpg",
+      img: `${baseImagePath}/img5.jpg`,
     },
     {
       title: "Grados que Ofertamos",
-      img: "./src/assets/img/img2.jpg",
+      img: `${baseImagePath}/img2.jpg`,
     },
     {
       title: "Población",
-      img: "./src/assets/img/img7.jpg",
+      img: `${baseImagePath}/img7.jpg`,
     },
     {
       title: "Modelo, Metódo Educativo y Requisitos Legales",
-      img: "./src/assets/img/img3.jpg",
+      img: `${baseImagePath}/img3.jpg`,
     },
     {
       title: "Sobre Nosotros",
-      img: "./src/assets/img/img6.jpg",
+      img: `${baseImagePath}/img6.jpg`,
     },
   ];
 
