@@ -2,35 +2,34 @@ import React from "react";
 import {Card, CardBody, CardFooter, Image} from "@nextui-org/react";
 
 export default function Options() {
-const baseImagePath = "../src/assets/img";
   const list = [
     {
       title: "Filosofía",
-      img: `${baseImagePath}/img1.jpg`,
+      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/v1698450205/Colegio/hqwvbvoia7jfkggtx3zr.jpg`,
     },
     {
       title: "Justificación de Nuestra Fundación",
-      img: `${baseImagePath}/img4.jpg`,
+      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/v1698450204/Colegio/ag8jedjelikvorst4eys.jpg`,
     },
     {
       title: "Propósitos",
-      img: `${baseImagePath}/img5.jpg`,
+      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/v1698450204/Colegio/uqnmhbt6uqtkmvqsgn2l.jpg`,
     },
     {
       title: "Grados que Ofertamos",
-      img: `${baseImagePath}/img2.jpg`,
+      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/v1698450204/Colegio/y6yf2zlgfdxgozkanmzq.jpg`,
     },
     {
       title: "Población",
-      img: `${baseImagePath}/img7.jpg`,
+      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/v1698450204/Colegio/tisjllwkvkn5d5s3bjjg.jpg`,
     },
     {
       title: "Modelo, Metódo Educativo y Requisitos Legales",
-      img: `${baseImagePath}/img3.jpg`,
+      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/v1698450204/Colegio/dqejr5j1tlrkvfagjqar.jpg`,
     },
     {
       title: "Sobre Nosotros",
-      img: `${baseImagePath}/img6.jpg`,
+      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/v1698450204/Colegio/xffl4p2lhe3vnhvqmzgr.jpg`,
     },
   ];
 
