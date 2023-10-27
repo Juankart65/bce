@@ -2,7 +2,7 @@ import React from "react";
 import {Card, CardBody, CardFooter, Image} from "@nextui-org/react";
 
 export default function Options() {
-const baseImagePath = "./src/assets/img";
+const baseImagePath = "../src/assets/img";
   const list = [
     {
       title: "Filosofía",
