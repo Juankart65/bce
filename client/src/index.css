@@ -4,7 +4,7 @@ body {
 
 body::before {
     content: "";
-    background-image: url("./assets/fondo.jpg");
+    background-image: url("./assets/img/fondo.jpg");
     background-attachment: fixed;
     position: fixed;
     /* Fija el fondo en la posición especificada */
@@ -14,6 +14,6 @@ body::before {
     height: 100%;
     opacity: 0.8;
     /* Ajusta la transparencia, donde 1 es opaco y 0 es transparente */
-    z-index: -1;
+    z-index: -0.5;
     /* Coloca el pseudo-elemento detrás del contenido */
 }
