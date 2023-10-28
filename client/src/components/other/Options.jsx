@@ -34,7 +34,7 @@ export default function Options() {
   ];
 
   return (
-    <div className="gap-7 md:grid md:grid-cols-3 grid-cols-2 flex-col justify-center ml-20">
+    <div className="gap-y-7 flex md:grid md:grid-cols-3 grid-cols-2 flex-col justify-center ml-20">
       {list.map((item, index) => (
           <Card
             isBlurred="true"

@@ -10,6 +10,7 @@ body::before {
     content: "";
     background-image: url("./assets/img/fondo.jpg");
     background-attachment: fixed;
+    background: linear-gradient(blue, pink);
     position: fixed;
     /* Fija el fondo en la posición especificada */
     top: 0;
