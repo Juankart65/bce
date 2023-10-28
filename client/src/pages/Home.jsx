@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <div
-        className="flex items-center justify-center h-screen m-6 w-full mt-"
+        className="flex items-center justify-center"
         id="home"
       >
         <Options />

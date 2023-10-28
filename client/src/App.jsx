@@ -6,7 +6,7 @@ import Home from './pages/Home';
 function App() {
   return (
     <>
-      <main className="w-screen">
+      <main >
         <BrowserRouter>
           <Nav />
           <Routes>
