@@ -3,6 +3,7 @@ import { Card, CardBody, CardFooter, Image } from "@nextui-org/react";
 import { Link } from "react-router-dom";
 
 export default function Options() {
+  const [selected, setSelected] = React.useState("login");
   const list = [
     {
       title: "Filosofía",
@@ -42,7 +43,7 @@ export default function Options() {
             isBlurred="true"
             shadow="sm"
             key={index}
-              isPressable={true}
+            isPressable={true}
           className="flex w-2/3"
               
           >
