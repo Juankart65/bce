@@ -34,14 +34,15 @@ export default function Options() {
   ];
 
   return (
-    <div className="gap-2 grid grid-cols-3 sm:grid-cols-4">
+    <div className="gap-y-7 grid md:grid-cols-3 grid-cols-4 justify-center">
       {list.map((item, index) => (
           <Card
             isBlurred="true"
             shadow="sm"
             key={index}
               isPressable={true}
-              className = "flex"
+          className="flex w-2/3 justify-center"
+              
           >
           <CardBody className="overflow-visible p-0">
             <img

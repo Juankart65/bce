@@ -6,7 +6,7 @@ import Vision from "./Vision"
 
 export default function App() {
   return (
-    <Navbar >
+    <Navbar className="mb-64 w-full flex flex-row">
       <NavbarBrand>
         <div>
         </div>
