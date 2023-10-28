@@ -20,13 +20,13 @@ function App() {
 
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="./filosofia" element={<Filosofia />} />
-            <Route path="./grados_que_ofertamos" element={<GradosOferta />} />
-            <Route path="./sobre_nosotros" element={<Aboutus />} />
-            <Route path="./justificacion_de_nuestra_fundacion" element={<Justificacion />} />
-            <Route path="./modelo,_metodo_educativo_y_requisitos_legales" element={<Modelo />} />
-            <Route path="./poblacion" element={<Poblacion />} />
-            <Route path="./propositos" element={<Propositos />} />
+            <Route path="/filosofia" element={<Filosofia />} />
+            <Route path="/grados_que_ofertamos" element={<GradosOferta />} />
+            <Route path="/sobre_nosotros" element={<Aboutus />} />
+            <Route path="/justificacion_de_nuestra_fundacion" element={<Justificacion />} />
+            <Route path="/modelo,_metodo_educativo_y_requisitos_legales" element={<Modelo />} />
+            <Route path="/poblacion" element={<Poblacion />} />
+            <Route path="/propositos" element={<Propositos />} />
           </Routes>
         </BrowserRouter>
       </main>

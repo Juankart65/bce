@@ -1,9 +1,10 @@
 import React from "react";
 import { Card, CardBody, CardFooter, Image } from "@nextui-org/react";
 import { Link } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
 export default function Options() {
-  const [selected, setSelected] = React.useState("login");
+  const navigate = useNavigate();
   const list = [
     {
       title: "Filosofía",
@@ -38,13 +39,14 @@ export default function Options() {
   return (
     <div className="gap-y-7 flex md:grid md:grid-cols-3 flex-col justify-center items-center md:ml-24">
       {list.map((item, index) => (
-        <Link to={`/${item.title.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s/g, "_")}`} key={index}>
         <Card
             isBlurred="true"
             shadow="sm"
             key={index}
             isPressable={true}
           className="flex w-2/3"
+           onClick={() => {
+              navigate(`/${item.title.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s/g, "_")}`)}}
               
           >
           <CardBody className="overflow-visible p-0">
@@ -58,7 +60,6 @@ export default function Options() {
             <b className="text-blue-500">{item.title}</b>
           </CardFooter>
         </Card>
-      </Link>
       ))}
     </div>
   );
