@@ -1,7 +1,7 @@
 import React from "react"
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import './App.css'
-import {Nav} from "./components/school/nav";
+import Nav from "./components/school/nav";
 import Home from './pages/Home';
 import Filosofia from './pages/Filosofia';
 import GradosOferta from './pages/GradosOferta';
@@ -19,7 +19,7 @@ function App() {
           <Nav />
 
           <Routes>
-            <Route path="./" element={<Home />} />
+            <Route path="/" element={<Home />} />
             <Route path="./filosofia" element={<Filosofia />} />
             <Route path="./grados_que_ofertamos" element={<GradosOferta />} />
             <Route path="./sobre_nosotros" element={<Aboutus />} />
