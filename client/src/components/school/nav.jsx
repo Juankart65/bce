@@ -6,7 +6,7 @@ import Vision from "./Vision"
 
 export default function App() {
   return (
-    <Navbar className="mb-10 w-full flex flex-row">
+    <Navbar className="mb-10 h-24 md:h-full md:w-full flex flex-row">
       <NavbarBrand>
         <div>
         </div>
@@ -14,7 +14,7 @@ export default function App() {
           Colegio
         </Link>
       </NavbarBrand>
-    <NavbarContent className="flex gap-4 " justify="center">
+    <NavbarContent className="flex gap-10 " justify="center">
         <NavbarItem>
           <Link color="foreground" href="#">
             <Mision />
