@@ -14,7 +14,7 @@ export default function App() {
           Colegio
         </Link>
       </NavbarBrand>
-    <NavbarContent className="hidden sm:flex gap-4" justify="center">
+    <NavbarContent className="flex gap-4 " justify="center">
         <NavbarItem>
           <Link color="foreground" href="#">
             <Mision />
@@ -22,11 +22,6 @@ export default function App() {
         </NavbarItem>
         <NavbarItem>
           <Vision />
-        </NavbarItem>
-        <NavbarItem>
-          <Link color="foreground" href="#">
-            Infraestructura
-          </Link>
         </NavbarItem>
       </NavbarContent>
     </Navbar>

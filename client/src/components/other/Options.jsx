@@ -34,7 +34,7 @@ export default function Options() {
   ];
 
   return (
-    <div className="gap-7 grid md:grid-cols-3 grid-cols-4 justify-center ml-20">
+    <div className="gap-7 md:grid md:grid-cols-3 grid-cols-2 flex-col justify-center ml-20">
       {list.map((item, index) => (
           <Card
             isBlurred="true"
@@ -48,12 +48,11 @@ export default function Options() {
             <img
               src={item.img}
               alt={item.title}
-              className="  rounded-xl shadow-md"
+              className=" rounded-small md:rounded-xl shadow-md"
             />
           </CardBody>
           <CardFooter className="text-xl justify-center">
             <b className="text-blue-500">{item.title}</b>
-            <p className="text-default-500">{item.price}</p>
           </CardFooter>
         </Card>
       ))}
