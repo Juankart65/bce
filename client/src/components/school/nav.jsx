@@ -7,18 +7,22 @@ import Vision from "./Vision"
 export default function App() {
   return (
     <Navbar className="mb-10 h-24 md:h-full md:w-full flex flex-row">
-      <NavbarBrand>
-        <div>
+      <NavbarBrand className="flex flex-row">
+        <div className="flex flex-row w-8 md:w-16">
+          <img
+            src="./src/assets/img/logo.png"
+            alt="BCE"
+            className="text"
+          />
         </div>
-        <Link className="flex font-bold text-inherit text-2xl text-[#000]" href="/">
-          Colegio
+        <Link className="flex flex-col font-bold text-inherit md:text-2xl text-blue-500" href="/">
+          Colegio Campestre
+          <h1>`Las Palmas`</h1>
         </Link>
       </NavbarBrand>
-    <NavbarContent className="flex gap-10 " justify="center">
+    <NavbarContent className="flex flex-row gap-10 " justify="center">
         <NavbarItem>
-          <Link color="foreground" href="#">
-            <Mision />
-          </Link>
+          <Mision />
         </NavbarItem>
         <NavbarItem>
           <Vision />
