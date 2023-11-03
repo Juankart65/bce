@@ -12,27 +12,15 @@ export default function Home() {
       >
         <Options />
       </div>
-      <div className="flex items-center justify-center mt-8 flex-row">
-         <h1 className="flex font-bold text-inherit text-2xl text-[#000]">Video</h1>
+      <div className="flex items-center justify-center mt-20 flex-row">
+         <h1 className="flex font-bold text-inherit text-4xl text-[#000]"><b>Deportes que se practican en el Colegio Campestre Las Palmas</b></h1>
       </div>
       <div className="player-wrapper flex flex-col items-center justify-center mt-10 ml-4">
         <ReactPlayer
           className = "react-player"
           width="97%"
           height="90%"
-          url="https://www.youtube.com/watch?v=tk58kTbcGx4&pp=ygURbWFyaXBvc2FzIHZvbGFuZG8%3D"
-          controls
-          loop />
-      </div>
-      <div className="flex items-center justify-center mt-8 flex-row">
-         <h1 className="flex font-bold text-inherit text-2xl text-[#000]">Video</h1>
-      </div>
-      <div className="player-wrapper flex flex-col items-center justify-center mt-10 ml-4">
-        <ReactPlayer
-          className = "react-player"
-          width="97%"
-          height="90%"
-          url="https://www.youtube.com/watch?v=EtmgJEAoCQI&pp=ygUFZ2F0b3M%3D"
+          url="https://youtu.be/0JHnJdnoG54?si=EeZ5fPoQJXm_-EYn"
           controls
           loop />
       </div>

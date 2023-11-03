@@ -1,9 +1,13 @@
 import React from 'react'
+import Table from "../components/other/Table"
 
 export default function Filosofia() {
   return (
-    <div className='text-black mt-10'>
-      <h1>Comming Soon</h1>
+      <div
+      className="flex flex-col h-full md:w-full items-center justify-center mt-64"
+        id="gradosoferta"
+      >
+        <Table />
     </div>
   )
 }
