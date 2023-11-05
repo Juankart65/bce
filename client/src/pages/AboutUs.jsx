@@ -13,13 +13,13 @@ export default function AboutUs() {
 
         <div className='flex flex-col items-center justify-center mb-3'>
           
-          <div className='flex flex-row items-center justify-center mr-4'>
+          <div className='flex flex-row items-center justify-center mr-4 mb-6'>
             <img className='mr-4 w-8 md:w-12'
               src="https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/u51pio9moapkx9nvpruq" />
             <h1 className='text-center text-small md:text-xl'>@colegiolaspalmas</h1>
           </div>
 
-          <div className='flex flex-row items-center justify-center mr-4'>
+          <div className='flex flex-row items-center justify-center mr-4 mb-6'>
             <img className='mr-4 w-8 md:w-12'
               src="https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/x4hoyzbw2ffzikfeqty2" />
             <h1 className='text-center text-small md:text-xl'>Colegio Campestre Las Palmas</h1>
@@ -31,6 +31,11 @@ export default function AboutUs() {
             <h1 className='text-center text-small md:text-xl'>Km. 12 vía La Tebaida, Quindío</h1>
           </div>
 
+          <div className='flex flex-row items-center justify-center mr-4 mb-6'>
+            <img className='mr-4 w-8 md:w-12'
+              src="https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/uxd4di8yetiiybq2bilb" />
+            <h1 className='text-center text-small md:text-xl'>3137703141</h1>
+          </div>
         </div>
 
         <div className='flex flex-row items-center justify-center'>
