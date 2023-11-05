@@ -30,7 +30,7 @@ function App() {
             <Route path="/poblacion" element={<Poblacion />} />
             <Route path="/curriculo,_organizacion_y_perfil_docente" element={<Curriculo />} />
             <Route path="/propositos" element={<Propositos />} />
-            <Route path="/matriculas_y_tarifas" element={<Matricula />} />
+            <Route path="/inscripciones_y_tarifas" element={<Matricula />} />
           </Routes>
         </BrowserRouter>
       </main>

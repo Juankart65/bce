@@ -35,7 +35,7 @@ export default function Options() {
       img: `https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/l3g2frekvhclak7yyp5a`,
     },
     {
-      title: "Matrícula y Tarifas",
+      title: "Inscripciones y Tarifas",
       img: `https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/flyd5fbvrvm8sxyt305l`,
     },
     {
