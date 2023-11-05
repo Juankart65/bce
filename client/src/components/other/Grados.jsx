@@ -23,7 +23,7 @@ const columns = [
   },
   {
     key: "numero",
-    label: "NÚMERO DE ESSTUDIANTES",
+    label: "NÚMERO DE ESTUDIANTES",
   },
   {
     key: "descripcion",
@@ -33,7 +33,7 @@ const columns = [
 
 export default function App() {
   return (
-    <Table className="text-blue-500 flex border-blue-500    ">
+    <Table className="text-blue-500 flex items-center justify-center w-unit-7xl md:w-full">
       <TableHeader columns={columns}>
         {(column) => <TableColumn key={column.key}>{column.label}</TableColumn>}
       </TableHeader>

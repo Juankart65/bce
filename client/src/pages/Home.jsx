@@ -12,6 +12,7 @@ export default function Home() {
       >
         <Options />
       </div>
+      
       <div className="flex items-center justify-center mt-20 flex-row">
          <h1 className="flex font-bold text-inherit text-2xl md:text-4xl text-[#000] text-center ml-4 mr-4"><b><i>Deportes que se practican en el `Colegio Campestre Las Palmas`</i></b></h1>
       </div>

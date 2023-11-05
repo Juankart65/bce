@@ -11,6 +11,7 @@ import Modelo from './pages/Modelo';
 import Poblacion from './pages/Poblacion';
 import Propositos from './pages/Propositos';
 import Curriculo from "./pages/Curriculo"
+import Matricula from "./pages/Matricula"
 
 function App() {
   return (
@@ -29,6 +30,7 @@ function App() {
             <Route path="/poblacion" element={<Poblacion />} />
             <Route path="/curriculo" element={<Curriculo />} />
             <Route path="/propositos" element={<Propositos />} />
+            <Route path="/matriculas_y_tarifas" element={<Matricula />} />
           </Routes>
         </BrowserRouter>
       </main>

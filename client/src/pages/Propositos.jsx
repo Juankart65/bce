@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Propostos() {
+export default function Propositos() {
   return (
     <div className='mt-10 items-center justify-center flex flex-col h-full'>
 
@@ -8,7 +8,7 @@ export default function Propostos() {
         <h1 className='text-2xl md:text-6xl flex-col mb-6 md:mb-10 text-center'><b><i>Propósitos u Objetivos</i></b></h1>
       </div>
       <div className='flex flex-col items-center justify-center w-full'>
-        <h1 className='text-xl md:text-4xl flex-col mb-6 md:mb-10 text-center'><b><i> Objetivo institucional</i></b></h1>
+        <h1 className='text-2xl md:text-5xl flex-col mb-6 md:mb-10 text-center'><b><i> Objetivo institucional</i></b></h1>
       </div>
       <div className='text-small md:text-2xl mt-6 mr-4 ml-4 md:mr-6 md:ml-6'>
         <p className='text-slate-900 text-center mb-3'><i>Promover un ambiente de aprendizaje integral que fomente el desarrollo
@@ -18,14 +18,14 @@ export default function Propostos() {
           deportiva, así como en la promoción de valores y la participación en la comunidad. Puede ser la base para desarrollar 
           estrategias y planes que impulsen el crecimiento y el éxito de los estudiantes en todas estas dimensiones.</i></p>
       </div>
-        <div className='flex flex-row justify-center items-center mt-7 mb-10'>
+      <div className='flex flex-row justify-center items-center mt-7 mb-10'>
         <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698979708/Colegio/j7tcbqjwnadohandv2mm.png"
           className='w-2/4 md:w-2/3' />
       </div>
     
       
       <div className='flex flex-col items-center justify-center w-full'>
-        <h2 className='text-xl md:text-4xl flex-col mb-6 md:mb-10 text-center'><b><i>Objetivos educativos</i></b></h2>
+        <h2 className='text-2xl md:text-5xl flex-col mb-6 md:mb-10 text-center'><b><i>Objetivos educativos</i></b></h2>
       </div>
       <div className='flex flex-col items-center justify-center w-full'>
         <h2 className='text-xl md:text-3xl flex-col mb-6 md:mb-10 text-center'><b><i>Evaluación de las Metas Individuales</i></b></h2>
@@ -35,7 +35,7 @@ export default function Propostos() {
           como deportivas para el año escolar. Esto ayudará a los estudiantes a visualizar lo que desean lograr y permitirá una
           mejor planificación.</i></p>
       </div>
-        <div className='flex flex-row justify-center items-center mt-7 mb-10'>
+      <div className='flex flex-row justify-center items-center mt-7 mb-10'>
         <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698980067/Colegio/fz5oilkm2qnzthyu7ums.png"
           className='w-2/4 md:w-2/3' />
       </div>
@@ -49,39 +49,119 @@ export default function Propostos() {
           ajusten a sus metas. Enséñales la importancia de una gestión eficiente del tiempo para que puedan mantener un equilibrio
           adecuado.</i></p>
       </div>
-        <div className='flex flex-row justify-center items-center mt-7 mb-10'>
+      <div className='flex flex-row justify-center items-center mt-7 mb-10'>
         <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698980152/Colegio/mabsscx9vmh9iuxhe66w.png"
           className='w-2/4 md:w-2/3' />
       </div>
+
+
       <div className='flex flex-col items-center justify-center w-full'>
-        <h2 className='text-xl md:text-4xl flex-col mb-6 md:mb-10 text-center'><b><i>Socialización y valores</i></b></h2>
+        <h2 className='text-xl md:text-4xl flex-col mb-6 md:mb-10 text-center'><b><i>Apoyo Académico</i></b></h2>
       </div>
       <div className='text-small md:text-2xl mt-6 mr-4 ml-4 md:mr-6 md:ml-6'>
-        <p className='text-slate-900 text-center'><i>La participación en deportes fomenta la socialización y ayuda a
-          los estudiantes a desarrollar valores como el respeto, la ética de trabajo, la responsabilidad y la deportividad.
-          Estos valores son esenciales para una convivencia sana en la sociedad.</i></p>
+        <p className='text-slate-900 text-center'><i>Ofrece programas de tutoría después de clases para aquellos estudiantes
+          que necesitan apoyo adicional en sus estudios. Fomenta un ambiente de estudio tranquilo y efectivo en la escuela.</i></p>
       </div>
-        <div className='flex flex-row justify-center items-center mt-7 mb-10'>
+      <div className='flex flex-row justify-center items-center mt-7 mb-10'>
         <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698977416/Colegio/foy3jmkkzbyh00a9zau3.png"
           className='w-2/4 md:w-2/3' />
       </div>
-            <div className='flex flex-col items-center justify-center w-full'>
-        <h2 className='text-xl md:text-4xl flex-col mb-6 md:mb-10 text-center'><b><i>Desarrollo de habilidades de liderazgo</i></b></h2>
+
+
+      <div className='flex flex-col items-center justify-center w-full'>
+        <h2 className='text-xl md:text-4xl flex-col mb-6 md:mb-10 text-center'><b><i>Promoción de Deportes</i></b></h2>
       </div>
       <div className='text-small md:text-2xl mt-6 mr-4 ml-4 md:mr-6 md:ml-6'>
-        <p className='text-slate-900 text-center'><i>La práctica deportiva brinda oportunidades para que los estudiantes desarrollen habilidades
-          de liderazgo, ya sea como capitán de un equipo, entrenador asistente o líder en el campo de juego.</i></p>
+        <p className='text-slate-900 text-center'><i>Organiza eventos deportivos y competencias escolares para que los
+          estudiantes se involucren activamente en deportes. Anima a los estudiantes a unirse a equipos deportivos y a
+          participar en actividades extracurriculares relacionadas con el deporte.</i></p>
+      </div>
+      <div className='flex flex-row justify-center items-center mt-7 mb-10'>
+        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1699194874/Colegio/uzbajqzwscn5hijj1nco.png"
+          className='w-3/4 md:w-8/12' />
+      </div>
+
+
+      <div className='flex flex-col items-center justify-center w-full'>
+        <h2 className='text-xl md:text-4xl flex-col mb-6 md:mb-10 text-center'><b><i>Fomento de Hábitos Saludables</i></b></h2>
+      </div>
+      <div className='text-small md:text-2xl mt-6 mr-4 ml-4 md:mr-6 md:ml-6'>
+        <p className='text-slate-900 text-center'><i>Imparte clases de educación física que no solo se centren en el
+          rendimiento deportivo, sino también en la salud física y mental. Promueve hábitos de alimentación saludable y
+          descanso adecuado.</i></p>
       </div>
         <div className='flex flex-row justify-center items-center mt-7 mb-10'>
-        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698977568/Colegio/txbruaobmomay30tvldf.png"
+        <img src=""
           className='w-2/4 md:w-2/3' />
       </div>
-      <div className='text-small md:text-2xl mt-6 mr-4 ml-4 md:mr-6 md:ml-6 mb-10'>
-        <p className='text-slate-900 text-center'><i>Este colegio se fundó con el objetivo de que la inclusión de la práctica
-          deportiva en el colegio campestre Las Palmas pueda tener un impacto significativamente positivo en la vida de los
-          estudiantes, tanto en términos de salud y bienestar como en su desarrollo académico y personal. Estos beneficios hacen
-          que sea una inversión valiosa en la educación de los niños.</i></p>
+
+  
+      <div className='flex flex-col items-center justify-center w-full'>
+        <h2 className='text-xl md:text-4xl flex-col mb-6 md:mb-10 text-center'><b><i>Mentoría y Asesoramiento</i></b></h2>
       </div>
+      <div className='text-small md:text-2xl mt-6 mr-4 ml-4 md:mr-6 md:ml-6'>
+        <p className='text-slate-900 text-center'><i>Asigna mentores a los estudiantes que puedan ofrecer orientación tanto
+          académica como deportiva. Los mentores pueden ayudar a los estudiantes a enfrentar desafíos y mantenerse enfocados
+          en sus objetivos.</i></p>
+      </div>
+        <div className='flex flex-row justify-center items-center mt-7 mb-10'>
+        <img src=""
+          className='w-2/4 md:w-2/3' />
+      </div>
+
+
+      <div className='flex flex-col items-center justify-center w-full'>
+        <h2 className='text-xl md:text-4xl flex-col mb-6 md:mb-10 text-center'><b><i>Celebración de Logros</i></b></h2>
+      </div>
+      <div className='text-small md:text-2xl mt-6 mr-4 ml-4 md:mr-6 md:ml-6'>
+        <p className='text-slate-900 text-center'><i>Reconoce y celebra los logros tanto académicos como deportivos de los estudiantes.
+          Organiza ceremonias o eventos especiales para destacar sus éxitos y fomentar la motivación.</i></p>
+      </div>
+        <div className='flex flex-row justify-center items-center mt-7 mb-10'>
+        <img src=""
+          className='w-2/4 md:w-2/3' />
+      </div>
+
+
+      <div className='flex flex-col items-center justify-center w-full'>
+        <h2 className='text-xl md:text-4xl flex-col mb-6 md:mb-10 text-center'><b><i>Evaluación Continua</i></b></h2>
+      </div>
+      <div className='text-small md:text-2xl mt-6 mr-4 ml-4 md:mr-6 md:ml-6'>
+        <p className='text-slate-900 text-center'><i>Realiza seguimientos regulares para evaluar el progreso de los estudiantes en
+          ambas áreas. Ajusta las estrategias según sea necesario para asegurarte de que estén alcanzando sus metas.</i></p>
+      </div>
+        <div className='flex flex-row justify-center items-center mt-7 mb-10'>
+        <img src=""
+          className='w-2/4 md:w-2/3' />
+      </div>
+
+
+      <div className='flex flex-col items-center justify-center w-full'>
+        <h2 className='text-xl md:text-4xl flex-col mb-6 md:mb-10 text-center'><b><i>Feedback y Comunicación</i></b></h2>
+      </div>
+      <div className='text-small md:text-2xl mt-6 mr-4 ml-4 md:mr-6 md:ml-6'>
+        <p className='text-slate-900 text-center'><i>Establece canales de comunicación abierta entre los profesores, entrenadores y
+          padres de familia para que todos estén informados y puedan brindar apoyo.</i></p>
+      </div>
+        <div className='flex flex-row justify-center items-center mt-7 mb-10'>
+        <img src=""
+          className='w-2/4 md:w-2/3' />
+      </div>
+
+
+      <div className='flex flex-col items-center justify-center w-full'>
+        <h2 className='text-xl md:text-4xl flex-col mb-6 md:mb-10 text-center'><b><i>Cultura de Respeto y Colaboración</i></b></h2>
+      </div>
+      <div className='text-small md:text-2xl mt-6 mr-4 ml-4 md:mr-6 md:ml-6'>
+        <p className='text-slate-900 text-center'><i>Fomenta un ambiente donde los estudiantes se respeten entre sí y colaboren
+          en sus esfuerzos académicos y deportivos. La camaradería y el trabajo en equipo son fundamentales.</i></p>
+      </div>
+        <div className='flex flex-row justify-center items-center mt-7 mb-10'>
+        <img src=""
+          className='w-2/4 md:w-2/3' />
+      </div>
+
+
     </div>
   )
 }

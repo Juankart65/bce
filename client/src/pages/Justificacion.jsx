@@ -3,6 +3,12 @@ import React from 'react'
 export default function Justificacion() {
   return (
     <div className='mt-10 items-center justify-center flex flex-col h-full'>
+
+      <div className='flex flex-row justify-center items-center mt-7 mb-6'>
+        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698968376/Colegio/ic5flpkpiexhkyirs1k2.png"
+          className='w-20 md:w-2/3' />
+      </div>
+
       <div className='flex flex-col items-center justify-center w-full'>
         <h1 className='text-2xl md:text-6xl flex-col mb-6 md:mb-10 text-center'><b><i>Justificación</i></b></h1>
       </div>
@@ -19,7 +25,9 @@ export default function Justificacion() {
         <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698975833/Colegio/ysxtitvatruh96bjgcjb.png"
         className='w-2/4 md:w-2/3'/>
       </div>
-        <div className='flex flex-col items-center justify-center w-full'>
+
+
+      <div className='flex flex-col items-center justify-center w-full'>
         <h2 className='text-xl md:text-4xl flex-col mb-6 md:mb-10 text-center'><b><i>Salud y bienestar</i></b></h2>
       </div>
       <div className='text-small md:text-2xl mt-6 mr-4 ml-4 md:mr-6 md:ml-6'>
@@ -31,6 +39,8 @@ export default function Justificacion() {
         <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698976230/Colegio/inobomgt51fipy9uaepd.png"
           className='w-2/4 md:w-2/3' />
       </div>
+
+
       <div className='flex flex-col items-center justify-center w-full'>
         <h2 className='text-xl md:text-4xl flex-col mb-6 md:mb-10 text-center'><b><i>Desarrollo de habilidades</i></b></h2>
       </div>
@@ -39,11 +49,13 @@ export default function Justificacion() {
           la concentración, el trabajo en equipo, la disciplina y la perseverancia. Estas habilidades son transferibles a la vida
           cotidiana y al ámbito académico.</i></p>
       </div>
-        <div className='flex flex-row justify-center items-center mt-7 mb-10'>
+      <div className='flex flex-row justify-center items-center mt-7 mb-10'>
         <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698976386/Colegio/ygzdjsnlfyjtr5durcgf.png"
           className='w-2/4 md:w-2/3' />
       </div>
-       <div className='flex flex-col items-center justify-center w-full'>
+
+
+      <div className='flex flex-col items-center justify-center w-full'>
         <h2 className='text-xl md:text-4xl flex-col mb-6 md:mb-10 text-center'><b><i>Mejora del rendimiento académico</i></b></h2>
       </div>
       <div className='text-small md:text-2xl mt-6 mr-4 ml-4 md:mr-6 md:ml-6'>
@@ -51,10 +63,12 @@ export default function Justificacion() {
           puede mejorar el rendimiento académico. Los estudiantes que hacen ejercicio regularmente tienden a tener una mayor
           capacidad de concentración y un mejor rendimiento en las aulas.</i></p>
       </div>
-        <div className='flex flex-row justify-center items-center mt-7 mb-10'>
+     <div className='flex flex-row justify-center items-center mt-7 mb-10'>
         <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698976549/Colegio/v9zorlf3qhjxhyjshvby.png"
           className='w-2/4 md:w-2/3' />
       </div>
+
+
       <div className='flex flex-col items-center justify-center w-full'>
         <h2 className='text-xl md:text-4xl flex-col mb-6 md:mb-10 text-center'><b><i>Fomento del trabajo en equipo</i></b></h2>
       </div>
@@ -62,10 +76,12 @@ export default function Justificacion() {
         <p className='text-slate-900 text-center'><i>Los deportes promueven la colaboración y el trabajo en equipo.
           Los estudiantes aprenden a trabajar juntos para alcanzar objetivos comunes, lo que es una habilidad fundamental en la vida.</i></p>
       </div>
-        <div className='flex flex-row justify-center items-center mt-7 mb-10'>
+      <div className='flex flex-row justify-center items-center mt-7 mb-10'>
         <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698976732/Colegio/hdmhejdfpmfxxqo6ctok.png"
           className='w-2/4 md:w-2/3' />
       </div>
+
+
       <div className='flex flex-col items-center justify-center w-full'>
         <h2 className='text-xl md:text-4xl flex-col mb-6 md:mb-10 text-center'><b><i>Socialización y valores</i></b></h2>
       </div>
@@ -74,18 +90,20 @@ export default function Justificacion() {
           los estudiantes a desarrollar valores como el respeto, la ética de trabajo, la responsabilidad y la deportividad.
           Estos valores son esenciales para una convivencia sana en la sociedad.</i></p>
       </div>
-        <div className='flex flex-row justify-center items-center mt-7 mb-10'>
+      <div className='flex flex-row justify-center items-center mt-7 mb-10'>
         <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698977416/Colegio/foy3jmkkzbyh00a9zau3.png"
           className='w-2/4 md:w-2/3' />
       </div>
-            <div className='flex flex-col items-center justify-center w-full'>
+
+
+      <div className='flex flex-col items-center justify-center w-full'>
         <h2 className='text-xl md:text-4xl flex-col mb-6 md:mb-10 text-center'><b><i>Desarrollo de habilidades de liderazgo</i></b></h2>
       </div>
       <div className='text-small md:text-2xl mt-6 mr-4 ml-4 md:mr-6 md:ml-6'>
         <p className='text-slate-900 text-center'><i>La práctica deportiva brinda oportunidades para que los estudiantes desarrollen habilidades
           de liderazgo, ya sea como capitán de un equipo, entrenador asistente o líder en el campo de juego.</i></p>
       </div>
-        <div className='flex flex-row justify-center items-center mt-7 mb-10'>
+      <div className='flex flex-row justify-center items-center mt-7 mb-10'>
         <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698977568/Colegio/txbruaobmomay30tvldf.png"
           className='w-2/4 md:w-2/3' />
       </div>
@@ -95,6 +113,8 @@ export default function Justificacion() {
           estudiantes, tanto en términos de salud y bienestar como en su desarrollo académico y personal. Estos beneficios hacen
           que sea una inversión valiosa en la educación de los niños.</i></p>
       </div>
+
+
     </div>
   )
 }
