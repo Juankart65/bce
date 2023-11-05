@@ -11,7 +11,7 @@ export default function Poblacion() {
         <h2 className='text-xl md:text-4xl flex-col mb-6 md:mb-10 text-center'><b><i>Descripción de la población</i></b></h2>
       </div>
       <div className='text-small md:text-2xl mt-6 mr-4 ml-4 md:mr-6 md:ml-6'>
-        <p className='text-slate-900 text-center'><i>El colegio Campestre Las Palmas que ofrece niveles de transición y
+        <p className='text-slate-900 text-center'><i>El colegio Campestre Las Palmas ofrece niveles de transición y
           primaria, con un total de 130 estudiantes:</i></p>
       </div>
 
