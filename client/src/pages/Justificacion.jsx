@@ -4,11 +4,6 @@ export default function Justificacion() {
   return (
     <div className='mt-10 items-center justify-center flex flex-col h-full'>
 
-      <div className='flex flex-row justify-center items-center mt-7 mb-6'>
-        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698968376/Colegio/ic5flpkpiexhkyirs1k2.png"
-          className='w-20 md:w-2/3' />
-      </div>
-
       <div className='flex flex-col items-center justify-center w-full'>
         <h1 className='text-2xl md:text-6xl flex-col mb-6 md:mb-10 text-center'><b><i>Justificación</i></b></h1>
       </div>
