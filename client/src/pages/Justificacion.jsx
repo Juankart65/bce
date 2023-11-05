@@ -27,7 +27,7 @@ export default function Justificacion() {
           Los estudiantes que participan en actividades deportivas tienen menos probabilidades de sufrir problemas
           de salud a largo plazo, como la obesidad, y pueden aprender a manejar el estrés y la ansiedad de manera más efectiva.</i></p>
       </div>
-        <div className='flex flex-row justify-center items-center mt-7 mb-10'>
+      <div className='flex flex-row justify-center items-center mt-7 mb-10'>
         <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698976230/Colegio/inobomgt51fipy9uaepd.png"
           className='w-2/4 md:w-2/3' />
       </div>

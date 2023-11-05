@@ -14,17 +14,11 @@ export default function App() {
             <p>
             El Colegio Campestre Las Palmas es una institución educativa privada
             comprometida a proporcionar una educación integral que combine formación académica de calidad
-            con una sólida base en disciplina y principios.
-            </p>
-            <p>
-            Valoramos tanto la formación académica como el
+            con una sólida base en disciplina y principios. Valoramos tanto la formación académica como el
             desarrollo deportivo de nuestros estudiantes. Queremos asegurarnos de que los alumnos tengan la
-            oportunidad de sobresalir en ambos campos. 
-            </p>
-            <p>
-            Esta misión tiene como objetivo fomentar un equilibrio
+            oportunidad de sobresalir en ambos campos. Esta misión tiene como objetivo fomentar un equilibrio
             saludable entre la formación académica y deportiva, promoviendo el rendimiento académico, el
-              bienestar físico y el espíritu de equipo.
+            bienestar físico y el espíritu de equipo.
             </p>
           </div>
         </div>

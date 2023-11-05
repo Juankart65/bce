@@ -8,9 +8,9 @@ body {
 
 body::before {
     content: "";
-    background-image: url("./assets/img/fondo.jpg");
+    /* background-image: url("./assets/img/fondo.jpg"); */
     background-attachment: fixed;
-    background: linear-gradient(blue, pink);
+    background: linear-gradient(green, blue);
     position: fixed;
     /* Fija el fondo en la posición especificada */
     top: 0;

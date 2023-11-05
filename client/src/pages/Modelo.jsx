@@ -6,8 +6,38 @@ export default function Modelo() {
       <div className='flex flex-col items-center justify-center w-full'>
         <h1 className='text-2xl md:text-6xl flex-col mb-6 md:mb-10 text-center'><b><i>Modelo, Método Pedagógico y Requisitos Legales</i></b></h1>
       </div>
-      <h2 className=' text-2xl md:text-4xl text-center'><b><i>Método Pedagógico</i></b></h2>
-      <div className='text-small md:text-2xl mt-6 mr-4 ml-4 md:mr-6 md:ml-6 mb-4'>
+      <div>
+        <h2 className=' text-2xl md:text-5xl text-center mb-4'><b><i>Modelo</i></b></h2>
+      </div>
+      <div className='flex flex-col items-center justify-center w-full'>
+        <h2 className='text-xl md:text-4xl flex-col mb-6 md:mb-10 text-center'><b><i>Modelo Pedagógico Cognitivista-desarrollista</i></b></h2>
+      </div>
+      <div className='text-small md:text-2xl mt-6 mr-4 ml-4 md:mr-6 md:ml-6'>
+        <p className='text-slate-900 text-center'><i>Combina los enfoques cognitivos y desarrollistas para crear un entorno de
+          aprendizaje que sea sensible a las necesidades cognitivas y de desarrollo de los estudiantes, promoviendo un aprendizaje
+          significativo y efectivo.</i></p>
+      </div>
+      <div className='flex flex-row justify-center items-center mt-7 mb-10'>
+        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1699138958/Colegio/b3y8fwl6tmiajxyenu1m.png"
+          className='w-2/4 md:w-2/3' />
+      </div>
+      <div className='flex flex-col items-center justify-center w-full'>
+        <h2 className='text-xl md:text-4xl flex-col mb-6 md:mb-10 text-center'><b><i>Modelo pedagógico social-constructivista</i></b></h2>
+      </div>
+      <div className='text-small md:text-2xl mt-6 mr-4 ml-4 md:mr-6 md:ml-6'>
+        <p className='text-slate-900 text-center'><i>Pone énfasis en la construcción activa del conocimiento a través de la
+          interacción social y la participación activa de los estudiantes. Este enfoque busca crear un ambiente de aprendizaje
+          colaborativo y significativo donde los estudiantes puedan desarrollar habilidades cognitivas, sociales y emocionales
+          de manera integral.</i></p>
+      </div>
+      <div className='flex flex-row justify-center items-center mt-7 mb-10'>
+        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698977784/Colegio/adfdeqaopiqk0eiexpae.png"
+          className='w-2/4 md:w-2/3' />
+      </div>
+      <div>
+        <h2 className=' text-2xl md:text-5xl text-center'><b><i>Método Pedagógico</i></b></h2>
+      </div>
+      <div className='text-small md:text-xl mt-6 mr-4 ml-4 md:mr-6 md:ml-6 mb-4'>
         <p className='text-slate-900 text-center'><i>Avanza la implementación de los principios filosóficos de Reggio Emilia
         en el Colegio Campestre Las Palmas, con experiencias que permiten a los
         estudiantes construir desde la escucha y las dinámicas colectivas e individuales,
@@ -35,7 +65,7 @@ export default function Modelo() {
           y particular en el que se potencian todas sus capacidades, habilidades y destrezas.</i></p>
       </div>
       <div>
-        <h1 className='text-center text-2xl md:text-4xl'><b><i>Experiencia pedagógica</i></b></h1>
+        <h1 className='text-center text-2xl md:text-5xl'><b><i>Experiencia pedagógica</i></b></h1>
       </div>
         <div className='text-small md:text-xl mt-6 mr-4 ml-4 md:mr-6 md:ml-6 mb-10 text-center'>
         <p className='text-slate-900'><i>Esta experiencia pedagógica busca lograr un equilibrio saludable
@@ -44,8 +74,15 @@ export default function Modelo() {
           cada día potencialicen sus habilidades cognitivas y deportivas logrando alcanzar sus propios retos y
           de toda la comunidad educativa.</i></p>
       </div>
-        <div className='flex justify-center items-center mt-7 mb-10'>
+      <div className='flex justify-center items-center mt-7 mb-10'>
         <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698977994/Colegio/csxjyme7qvvqnkjkapkt.png"
+        className='w-2/4 md:w-2/3'/>
+      </div>
+      <div>
+        <h1 className='text-center text-2xl md:text-5xl'><b><i>Requisitos Legales</i></b></h1>
+      </div>
+      <div className='flex justify-center items-center mt-7 mb-10'>
+        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1699137332/Colegio/zm2hk0hhcf4wg1jyoybf.png"
         className='w-2/4 md:w-2/3'/>
       </div>
     </div>

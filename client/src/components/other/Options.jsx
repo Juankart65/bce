@@ -11,7 +11,7 @@ export default function Options() {
       img: `https://res.cloudinary.com/dsnq0pvey/image/upload/v1698450205/Colegio/hqwvbvoia7jfkggtx3zr.jpg`,
     },
     {
-      title: "Justificación de Nuestra Fundación",
+      title: "Justificación",
       img: `https://res.cloudinary.com/dsnq0pvey/image/upload/v1698450204/Colegio/ag8jedjelikvorst4eys.jpg`,
     },
     {
@@ -29,6 +29,10 @@ export default function Options() {
     {
       title: "Modelo, Metódo Educativo y Requisitos Legales",
       img: `https://res.cloudinary.com/dsnq0pvey/image/upload/v1698450204/Colegio/dqejr5j1tlrkvfagjqar.jpg`,
+    },
+    {
+      title: "Currículo",
+      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/v1699132544/Colegio/l3g2frekvhclak7yyp5a.jpg`,
     },
     {
       title: "Sobre Nosotros",

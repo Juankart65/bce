@@ -10,6 +10,7 @@ import Justificacion from './pages/Justificacion';
 import Modelo from './pages/Modelo';
 import Poblacion from './pages/Poblacion';
 import Propositos from './pages/Propositos';
+import Curriculo from "./pages/Curriculo"
 
 function App() {
   return (
@@ -23,9 +24,10 @@ function App() {
             <Route path="/filosofia" element={<Filosofia />} />
             <Route path="/grados_que_ofertamos" element={<GradosOferta />} />
             <Route path="/sobre_nosotros" element={<Aboutus />} />
-            <Route path="/justificacion_de_nuestra_fundacion" element={<Justificacion />} />
+            <Route path="/justificacion" element={<Justificacion />} />
             <Route path="/modelo,_metodo_educativo_y_requisitos_legales" element={<Modelo />} />
             <Route path="/poblacion" element={<Poblacion />} />
+            <Route path="/curriculo" element={<Curriculo />} />
             <Route path="/propositos" element={<Propositos />} />
           </Routes>
         </BrowserRouter>
