@@ -25,7 +25,7 @@ export default function AboutUs() {
             <h1 className='text-center text-small md:text-xl'>Colegio Campestre Las Palmas</h1>
           </div>
 
-          <div className='flex flex-row items-center justify-center mr-4'>
+          <div className='flex flex-row items-center justify-center mr-4 mb-6'>
             <img className='mr-4 w-14 md:w-20'
               src="https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/lgtmekfvjmvwxhbx6nbj" />
             <h1 className='text-center text-small md:text-xl'>Km. 12 vía La Tebaida, Quindío</h1>
