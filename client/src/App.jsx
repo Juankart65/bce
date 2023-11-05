@@ -28,7 +28,7 @@ function App() {
             <Route path="/justificacion" element={<Justificacion />} />
             <Route path="/modelo,_metodo_educativo_y_requisitos_legales" element={<Modelo />} />
             <Route path="/poblacion" element={<Poblacion />} />
-            <Route path="/curriculo" element={<Curriculo />} />
+            <Route path="/curriculo,_organizacion_y_perfil_docente" element={<Curriculo />} />
             <Route path="/propositos" element={<Propositos />} />
             <Route path="/matriculas_y_tarifas" element={<Matricula />} />
           </Routes>

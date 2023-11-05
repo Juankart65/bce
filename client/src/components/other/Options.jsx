@@ -8,39 +8,39 @@ export default function Options() {
   const list = [
     {
       title: "Filosofía",
-      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/v1698450205/Colegio/hqwvbvoia7jfkggtx3zr.jpg`,
+      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/hqwvbvoia7jfkggtx3zr`,
     },
     {
       title: "Justificación",
-      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/v1698450204/Colegio/ag8jedjelikvorst4eys.jpg`,
+      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/ag8jedjelikvorst4eys`,
     },
     {
       title: "Propósitos",
-      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/v1698450204/Colegio/uqnmhbt6uqtkmvqsgn2l.jpg`,
+      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/uqnmhbt6uqtkmvqsgn2l`,
     },
     {
       title: "Grados que Ofertamos",
-      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/v1698450204/Colegio/y6yf2zlgfdxgozkanmzq.jpg`,
+      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/y6yf2zlgfdxgozkanmzq`,
     },
     {
       title: "Población",
-      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/v1698450204/Colegio/tisjllwkvkn5d5s3bjjg.jpg`,
+      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/tisjllwkvkn5d5s3bjjg`,
     },
     {
       title: "Modelo, Metódo Educativo y Requisitos Legales",
-      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/v1698450204/Colegio/dqejr5j1tlrkvfagjqar.jpg`,
+      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/dqejr5j1tlrkvfagjqar`,
     },
     {
-      title: "Currículo",
-      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/v1699132544/Colegio/l3g2frekvhclak7yyp5a.jpg`,
+      title: "Currículo, Organización y Perfil Docente",
+      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/l3g2frekvhclak7yyp5a`,
     },
     {
       title: "Matrícula y Tarifas",
-      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/v1699209827/Colegio/flyd5fbvrvm8sxyt305l.png`,
+      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/flyd5fbvrvm8sxyt305l`,
     },
     {
       title: "Sobre Nosotros",
-      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/v1698450204/Colegio/xffl4p2lhe3vnhvqmzgr.jpg`,
+      img: `https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/xffl4p2lhe3vnhvqmzgr`,
     },
   ];
 

@@ -22,7 +22,7 @@ export default function Modelo() {
           significativo y efectivo.</i></p>
       </div>
       <div className='flex flex-row justify-center items-center mt-7 mb-10'>
-        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1699138958/Colegio/b3y8fwl6tmiajxyenu1m.png"
+        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/b3y8fwl6tmiajxyenu1m"
           className='w-2/4 md:w-2/3' />
       </div>
 
@@ -37,7 +37,7 @@ export default function Modelo() {
           de manera integral.</i></p>
       </div>
       <div className='flex flex-row justify-center items-center mt-7 mb-10'>
-        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698977784/Colegio/adfdeqaopiqk0eiexpae.png"
+        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/adfdeqaopiqk0eiexpae"
           className='w-2/4 md:w-2/3' />
       </div>
 
@@ -54,7 +54,7 @@ export default function Modelo() {
         mismos estructuran desde la imaginación.</i></p>
       </div>
       <div className='flex justify-center items-center mt-7'>
-        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698977857/Colegio/zvokaymgj0mj5b47nxwk.png"
+        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/zvokaymgj0mj5b47nxwk"
         className='w-2/4 md:w-2/3'/>
       </div>
       <div className='text-small md:text-xl mt-6 mr-4 ml-4 md:mr-6 md:ml-6 mb-4 text-center'>
@@ -65,7 +65,7 @@ export default function Modelo() {
           antes de abrirse a un mundo de posibilidades.</i></p>
       </div>
       <div className='flex justify-center items-center mt-7'>
-        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698977915/Colegio/nqxpyxt0x1xj9bok6nsa.png"
+        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/nqxpyxt0x1xj9bok6nsa"
         className='w-2/4 md:w-2/3'/>
       </div>
       <div className='text-small md:text-xl mt-6 mr-4 ml-4 md:mr-6 md:ml-6 mb-10 text-center'>
@@ -86,7 +86,7 @@ export default function Modelo() {
           de toda la comunidad educativa.</i></p>
       </div>
       <div className='flex justify-center items-center mt-7 mb-10'>
-        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698977994/Colegio/csxjyme7qvvqnkjkapkt.png"
+        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/csxjyme7qvvqnkjkapkt"
         className='w-2/4 md:w-2/3'/>
       </div>
 
@@ -95,7 +95,7 @@ export default function Modelo() {
         <h1 className='text-center text-2xl md:text-5xl'><b><i>Requisitos Legales</i></b></h1>
       </div>
       <div className='flex justify-center items-center mt-7 mb-10'>
-        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1699137332/Colegio/zm2hk0hhcf4wg1jyoybf.png"
+        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/zm2hk0hhcf4wg1jyoybf"
         className='w-2/4 md:w-2/3'/>
       </div>
 

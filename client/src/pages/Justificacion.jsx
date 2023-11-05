@@ -15,9 +15,9 @@ export default function Justificacion() {
           de los beneficios que el estudiante alcanza al realizar actividad física </i></p>
       </div>
       <div className='flex flex-row justify-center items-center mt-7 mb-10'>
-        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698975705/Colegio/hd8kwuljqwijasr4llle.png"
+        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/hd8kwuljqwijasr4llle"
           className='w-2/4 md:w-2/3' />
-        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698975833/Colegio/ysxtitvatruh96bjgcjb.png"
+        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/ysxtitvatruh96bjgcjb"
         className='w-2/4 md:w-2/3'/>
       </div>
 
@@ -31,7 +31,7 @@ export default function Justificacion() {
           de salud a largo plazo, como la obesidad, y pueden aprender a manejar el estrés y la ansiedad de manera más efectiva.</i></p>
       </div>
       <div className='flex flex-row justify-center items-center mt-7 mb-10'>
-        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698976230/Colegio/inobomgt51fipy9uaepd.png"
+        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/inobomgt51fipy9uaepd"
           className='w-2/4 md:w-2/3' />
       </div>
 
@@ -45,7 +45,7 @@ export default function Justificacion() {
           cotidiana y al ámbito académico.</i></p>
       </div>
       <div className='flex flex-row justify-center items-center mt-7 mb-10'>
-        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698976386/Colegio/ygzdjsnlfyjtr5durcgf.png"
+        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/ygzdjsnlfyjtr5durcgf"
           className='w-2/4 md:w-2/3' />
       </div>
 
@@ -59,7 +59,7 @@ export default function Justificacion() {
           capacidad de concentración y un mejor rendimiento en las aulas.</i></p>
       </div>
      <div className='flex flex-row justify-center items-center mt-7 mb-10'>
-        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698976549/Colegio/v9zorlf3qhjxhyjshvby.png"
+        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/v9zorlf3qhjxhyjshvby"
           className='w-2/4 md:w-2/3' />
       </div>
 
@@ -72,7 +72,7 @@ export default function Justificacion() {
           Los estudiantes aprenden a trabajar juntos para alcanzar objetivos comunes, lo que es una habilidad fundamental en la vida.</i></p>
       </div>
       <div className='flex flex-row justify-center items-center mt-7 mb-10'>
-        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698976732/Colegio/hdmhejdfpmfxxqo6ctok.png"
+        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/hdmhejdfpmfxxqo6ctok"
           className='w-2/4 md:w-2/3' />
       </div>
 
@@ -86,7 +86,7 @@ export default function Justificacion() {
           Estos valores son esenciales para una convivencia sana en la sociedad.</i></p>
       </div>
       <div className='flex flex-row justify-center items-center mt-7 mb-10'>
-        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698977416/Colegio/foy3jmkkzbyh00a9zau3.png"
+        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/foy3jmkkzbyh00a9zau3"
           className='w-2/4 md:w-2/3' />
       </div>
 
@@ -99,7 +99,7 @@ export default function Justificacion() {
           de liderazgo, ya sea como capitán de un equipo, entrenador asistente o líder en el campo de juego.</i></p>
       </div>
       <div className='flex flex-row justify-center items-center mt-7 mb-10'>
-        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698977568/Colegio/txbruaobmomay30tvldf.png"
+        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/txbruaobmomay30tvldf"
           className='w-2/4 md:w-2/3' />
       </div>
       <div className='text-small md:text-2xl mt-6 mr-4 ml-4 md:mr-6 md:ml-6 mb-10'>

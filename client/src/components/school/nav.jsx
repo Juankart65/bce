@@ -10,7 +10,7 @@ export default function App() {
       <NavbarBrand className="flex flex-row">
         <div className="flex flex-row w-8 md:w-16">
           <img
-            src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698968376/Colegio/ic5flpkpiexhkyirs1k2.png"
+            src="https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/ic5flpkpiexhkyirs1k2"
             alt="BCE"
             className="text"
           />

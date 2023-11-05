@@ -19,7 +19,7 @@ export default function Propositos() {
           estrategias y planes que impulsen el crecimiento y el éxito de los estudiantes en todas estas dimensiones.</i></p>
       </div>
       <div className='flex flex-row justify-center items-center mt-7 mb-10'>
-        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698979708/Colegio/j7tcbqjwnadohandv2mm.png"
+        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/j7tcbqjwnadohandv2mm"
           className='w-2/4 md:w-2/3' />
       </div>
     
@@ -36,7 +36,7 @@ export default function Propositos() {
           mejor planificación.</i></p>
       </div>
       <div className='flex flex-row justify-center items-center mt-7 mb-10'>
-        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698980067/Colegio/fz5oilkm2qnzthyu7ums.png"
+        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/fz5oilkm2qnzthyu7ums"
           className='w-2/4 md:w-2/3' />
       </div>
 
@@ -50,7 +50,7 @@ export default function Propositos() {
           adecuado.</i></p>
       </div>
       <div className='flex flex-row justify-center items-center mt-7 mb-10'>
-        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698980152/Colegio/mabsscx9vmh9iuxhe66w.png"
+        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/mabsscx9vmh9iuxhe66w"
           className='w-2/4 md:w-2/3' />
       </div>
 
@@ -63,7 +63,7 @@ export default function Propositos() {
           que necesitan apoyo adicional en sus estudios. Fomenta un ambiente de estudio tranquilo y efectivo en la escuela.</i></p>
       </div>
       <div className='flex flex-row justify-center items-center mt-7 mb-10'>
-        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698977416/Colegio/foy3jmkkzbyh00a9zau3.png"
+        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/foy3jmkkzbyh00a9zau3"
           className='w-2/4 md:w-2/3' />
       </div>
 
@@ -77,7 +77,7 @@ export default function Propositos() {
           participar en actividades extracurriculares relacionadas con el deporte.</i></p>
       </div>
       <div className='flex flex-row justify-center items-center mt-7 mb-10'>
-        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1699194874/Colegio/uzbajqzwscn5hijj1nco.png"
+        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/uzbajqzwscn5hijj1nco"
           className='w-3/4 md:w-8/12' />
       </div>
 

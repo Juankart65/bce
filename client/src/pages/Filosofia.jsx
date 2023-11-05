@@ -15,7 +15,7 @@ export default function Filosofia() {
           para el proceso educativo en general.</i></p>
       </div>
       <div className='flex justify-center items-center mt-7 mb-10'>
-        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/v1698977784/Colegio/adfdeqaopiqk0eiexpae.png"
+        <img src="https://res.cloudinary.com/dsnq0pvey/image/upload/f_auto,q_auto/v1/Colegio/adfdeqaopiqk0eiexpae"
         className='w-2/3'/>
       </div>
     </div>
